@@ -3,3 +3,4 @@ title = "Fernando's website"
 languageCode = "en-us"
 theme = "PaperMod"
 paginate = 10
+canonifyURLs = true
